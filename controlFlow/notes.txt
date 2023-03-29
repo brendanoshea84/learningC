@@ -1,0 +1,18 @@
+statements generally excute from top to bottom in order
+
+control flow stataments break up the flow of execution by employing decision making,
+looping, and branching, enabling your program to conditionally execute particular blocks
+of code
+
+    decision-making statements:     (if-then, if-then-else, switch, goto)
+    looping statements:             (for, while, do-while)
+    branching statements:           (break, continue, return)
+
+decision making statements:
+    if a condition is true, then a statament/stataments are excuted
+    if false, other statements are excuted
+
+loop statament:
+    allows us to repeat stataments
+    all automatic objects that were created in that scope are destroyed (break and continue)
+    becomes an infinite loop if a condition never becomes false
